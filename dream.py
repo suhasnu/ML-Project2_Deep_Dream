@@ -8,7 +8,7 @@ from PIL import Image
 #Configurations
 image_path = 'image_1.jpg'
 layer_name = 'block_9_add'
-steps = 500
+steps = 1000
 step_size = 0.01
 
 #Loading the Model
